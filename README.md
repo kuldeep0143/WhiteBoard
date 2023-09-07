@@ -1,34 +1,23 @@
-Tech Stack used:
+# 🎨 WhiteBoard Application 🚀
 
---> HTML
+I'm thrilled to share a project I've been working on that combines my passion for coding with my love for creativity - a Real-Time Whiteboard! 🖌️
 
---> CSS
+Tech Stack:-
+HTML
+CSS
+JavaScript
+Express.js for backend
+Socket.io
+Key Features:
+🖍️ Draw using pencil (3 different colors, scale the pencil size)
+🧽 Erase the drawn area using an eraser (scale the eraser size)
+📌 Include sticky notes (add multiple notes, move them around, minimize, and close)
+🖼️ Upload images or gifs (add multiple files, move them around, close)
+📥 Download your masterpiece
+↩️ Undo or redo changes
+🔍 Zoom in or out
+🌐 Real-time collaboration
 
---> JavaScript 
+This project is designed to provide a dynamic and collaborative virtual environment for drawing and creative expression. Plus, it runs smoothly on your local machine, making it accessible and convenient for all!
 
--->Express.js for backend
-
---> socket.io
-
-
-Key Features This real-time whiteboard provides the user with following features:
-
-
---> Draw using pencil (3 different colors, scale the pencil size)
-
---> Erase the drawn area using eraser(scale the eraser size)
-
---> Include a sticky note to make notes (feature to add multiple sticky notes, move sticky note around the drawing area, minimize and close the sticky note)
-
---> Upload an image or gif (feature to add multiple files,feature to move the file, close the file)
-
---> Download the drawing part on the user screen
-
---> Redo or undo the drawing content changes.
-
---> Zoom in or zoom out the drawing content.
-
---> Real-time virtual environment for drawing and erasing.
-
---> Run on your local machine
-
+I'm excited to share this project with the community and would love your feedback.
