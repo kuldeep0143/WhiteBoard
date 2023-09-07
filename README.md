@@ -3,7 +3,7 @@
 I'm thrilled to share a project I've been working on that combines my passion for coding with my love for creativity - a Real-Time Whiteboard! 🖌️
 
 Tech Stack:-
-HTML
+HTML /
 CSS
 JavaScript
 Express.js for backend
